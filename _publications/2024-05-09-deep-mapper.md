@@ -2,9 +2,10 @@
 title: "Deep Mapper Graph and its Application to Visualize Plausible Pathways on High-Dimensional Distribution with Small Time-Complexity"
 collection: publications
 permalink: /publication/2024-05-09-deep-mapper
+message: 'Joint work with Fujitsu Ltd. - Now accepted at ECAI 2024!'
 excerpt: 'We introduce a novel variant of the Mapper algorithm in order to find plausible protein conformational pathways. When applied to a 50S-ribosomal dataset, this proves to be more efficient than existing methods, while successfully recovering well-recognized pathways.'
 date: 2024-02-29
-venue: 'Arxiv preprint'
+venue: '27th European Conference on Artificial Intelligence'
 paperurl: 'https://arxiv.org/pdf/2402.19177'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

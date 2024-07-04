@@ -5,7 +5,7 @@ permalink: /publication/2024-05-10-differentiable-mapper
 message: 'Now accepted at ICML 2024!'
 excerpt:   'The Mapper algorithm has been known to be a powerful tool in visualization and data analytics, but suffers from dependence on many hand-turning parameters. In this work, we propose a relaxation and generalization of the Mapper so that the parameters can be optimized using gradient descent. Convergence results and applications are also provided.'
 date: 2024-02-20
-venue: "Arxiv preprint"
+venue: "Forty-first International Conference on Machine Learning"
 paperurl: 'https://arxiv.org/pdf/2402.12854'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

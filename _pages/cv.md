@@ -17,13 +17,11 @@ Education
 
 Work experience
 ======
-* April - September 2023: Research and Development Intern
-  * Fujitsu Limited
+* April - September 2023: Research and Development Intern (Fujitsu Ltd.)
   * Topological Data Analysis Methods for Protein Dynamics
 
 
-* April - August 2022: Research Intern
-  * INRAE - AgroParisTech
+* April - August 2022: Research Intern (INRAE - AgroParisTech)
   * Risk Analysis of Late Spring Frost in the Context of Climate Change
 
 
