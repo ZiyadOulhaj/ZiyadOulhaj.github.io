@@ -9,30 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Applied Mathematics, Nantes Université - École Centrale de Nantes, 2023 - present
-* Engineering Degree (M.S.) in Applied Mathematics, École Centrale de Nantes, 2020 - 2023
-* Classes Préparatoires (Undergraduate) in Mathematics and Physics, Lycée Technique Mohammédia, 2018 - 2020
+<div style="max-width: 950px; margin: 2rem auto; padding: 1.5rem; border:1px solid #eaeaea; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
 
-Work experience
-======
-* April - September 2023: Research and Development Intern (Fujitsu Ltd.)
-  * Topological Data Analysis Methods for Protein Dynamics
+  <p style="color:#555;">
+    View my CV below or download a copy.
+  </p>
 
+  <div style="margin-bottom: 1rem;">
+    <a href="/files/cv.pdf" target="_blank" 
+       style="margin-right:10px; padding:8px 14px; background:#0366d6; color:white; border-radius:6px; text-decoration:none;">
+       Open PDF
+    </a>
 
-* April - August 2022: Research Intern (INRAE - AgroParisTech)
-  * Risk Analysis of Late Spring Frost in the Context of Climate Change
+    <a href="/files/cv.pdf" download
+       style="padding:8px 14px; border:1px solid #ccc; border-radius:6px; text-decoration:none; color:#333;">
+       Download
+    </a>
+  </div>
 
+  <iframe 
+    src="/files/cv.pdf" 
+    width="100%" 
+    height="900px" 
+    style="border:none;">
+  </iframe>
 
-Publications and Preprints
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+</div>
